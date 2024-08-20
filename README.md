@@ -33,5 +33,5 @@ El proyecto se compone de varios archivos Python que se integran para crear la e
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/trivia-python.git
-#
+   git clone (https://github.com/AndresGallardo95/Prueba_modulo_3python.git)
+
